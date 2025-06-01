@@ -1,7 +1,7 @@
 # Python solution to your assignment for a University System that displays 
 # information using a parent class Person and subclasses Student, Lecturer, and Staff:
 
-# Base class
+# Base class/ Parent class
 class Person:
     def __init__(self, name, age, role):
         self.name = name
