@@ -1,0 +1,15 @@
+Summary of Insights and Recommendations
+Insights:
+Soil pH, moisture, and temperature show the strongest correlation with fertilizer_amount.
+
+The crop with the highest soil moisture (e.g. Rice) tends to require less irrigation but careful fertilization.
+
+Crops grown in environments with >30°C typically show reduced soil moisture, indicating the need for targeted irrigation strategies.
+
+Recommendations:
+Implement AI-driven irrigation controls for crops in high-temperature zones.
+
+Prioritize monitoring soil pH and moisture for fertilizer efficiency.
+
+For crops like Maize or Wheat in hot climates, adjust irrigation schedules to mitigate heat stress.
+
